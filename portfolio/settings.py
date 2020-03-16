@@ -32,7 +32,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'jobs.apps.JobsConfig',
-    'projects.apps.ProjectsConfig',
     'blog.apps.BlogConfig',
     'contacts.apps.ContactsConfig',
     'django.contrib.admin',
